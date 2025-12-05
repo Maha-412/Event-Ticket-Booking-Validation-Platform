@@ -42,5 +42,5 @@ A scalable event management and ticketing platform built using Spring Boot, JPA/
   ---
 
 ## 👨‍💻 Author 
-### Hariharan 
-### GitHub:  Rhariharan08
+### Mahalakshmu
+### GitHub:  Maha-412
